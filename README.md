@@ -1,5 +1,5 @@
 <img src="https://wallpapers.com/images/hd/aesthetic-pixel-art-city-skyscrapers-99e6fjzihjcsl6qf.jpg"></img>
-<h1 align="center">Hi 👋, I'm Fresh</h1>
+<h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
 - 🌱 I’m currently learning **React & Angular**
