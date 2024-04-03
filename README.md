@@ -46,14 +46,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FreshDoesCoding/FreshDoesCoding/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/FreshDoesCoding/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/FreshDoesCoding/FreshDoesCoding/output/snake.svg" alt="Snake animation" />
 
 ###
